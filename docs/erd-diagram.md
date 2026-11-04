@@ -1,7 +1,7 @@
 # ERD Diagram
 
 ```mermaid
-erDiagram
+erDiagram LR
     AUTHOR ||--o{ BOOK : writes
 ```
 
