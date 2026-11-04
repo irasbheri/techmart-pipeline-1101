@@ -7,6 +7,8 @@
 ![Lint](https://github.com/irasbheri/techmart-pipeline-1101/actions/workflows/lint.yml/badge.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/irasbheri/techmart-pipeline-1101)
 
+![Open Issues](https://img.shields.io/github/issues/irasbheri/techmart-pipeline-1101)
+
 ## Project Overview
 
 A small Python project for TechMart's order data. This scaffold exists to show
